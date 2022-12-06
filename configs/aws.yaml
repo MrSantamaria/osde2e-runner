@@ -1,3 +1,0 @@
-cloudProvider:
-  providerId: aws
-  region: us-east-1

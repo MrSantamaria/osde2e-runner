@@ -1,2 +1,0 @@
-tests:
-  serviceAccount: "system:serviceaccount:%s:dedicated-admin-cluster"
