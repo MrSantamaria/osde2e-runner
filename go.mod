@@ -21,7 +21,7 @@ require (
 	github.com/prometheus/common v0.37.0
 	github.com/redhat-cop/must-gather-operator v1.1.2
 	github.com/tsenart/vegeta v12.7.0+incompatible
-	github.com/vmware-tanzu/velero v1.9.3
+	github.com/vmware-tanzu/velero v1.10.0
 	google.golang.org/api v0.103.0
 	google.golang.org/genproto v0.0.0-20221201164419-0e50fba7f41c
 	gopkg.in/yaml.v3 v3.0.1
