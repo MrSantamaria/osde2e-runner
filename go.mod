@@ -14,7 +14,7 @@ require (
 	github.com/openshift/managed-upgrade-operator v0.0.0-20221004201436-ac05e85af861
 	github.com/openshift/osde2e v0.0.0-20221205213500-48de7b6074bb
 	github.com/openshift/splunk-forwarder-operator v0.0.0-20221120204055-42afd88abb4c
-	github.com/operator-framework/api v0.17.1
+	github.com/operator-framework/api v0.17.2
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.61.0
 	github.com/prometheus/alertmanager v0.24.0
 	github.com/prometheus/client_golang v1.14.0
